@@ -1,0 +1,68 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+.content_central{
+	width:710px;
+	background:#FFF;
+	float:left;
+	margin:0px 5px;
+}
+.content_central h3{
+	background: #599ece;
+	width: 710px;
+	height: 20px;
+	padding-top: 5px;
+	text-align:center;
+	font-size: 15px;
+	color:#FFFFFF;
+}
+.content_central .Table_ketqua{
+	margin: 10px auto;
+	text-align: center;
+	font-size: 11px;
+}
+
+.content h1
+{
+	color: #F00;
+	font-size: 150%;
+	margin: 1% 1% 0 1%;
+	text-align: center;
+	height: auto;
+}
+.content_central #button2 {
+	margin: 3% 0 2% 5%;
+	text-align:center;
+}
+.content_central #button2 ul li{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 10% 0 0;
+	padding: 1% 1% 1% 1%;
+}
+.content_central #button2 ul li a{
+	text-decoration:none;
+	color:#FFF;
+}
+.content_central #infor3
+{
+	margin: 2% 0 0 3%;
+	text-align:center;
+	}
+.content_central #infor3 ul li{
+	display:inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 12% 0 0;
+	padding: 0 9.5% 0 0;
+}
+#table {
+	margin: 2% 0 0 3%;
+}
+#table table{
+	text-align:center;
+}

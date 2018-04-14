@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-image:url(/do_an_1_phuong/home/Homepage/nen.png);
+}
+.wrapper{
+	width: 1000px;
+	height:auto;
+	margin: auto;
+}
+
+.navigation_bar{
+	background:url(/do_an_1_phuong/home/Homepage/webdev_0004s_0008_Rectangle-3.png) top center no-repeat;
+	width: 1000px;
+	height:40px;
+	margin: 0px auto;
+}
+.navigation_bar .Home{
+	float:left;
+}
+.navigation_bar .Home a img{
+	width:30px;
+	height:25px;
+	margin:5px 0px 5px 20px;
+}
+.navigation_bar .Home a img:hover{
+	width: 35px;
+	height: 30px;
+}
+.navigation_bar .Menu{
+	float:left;
+	margin-left: 20px;
+	width: 900px;
+}
+.navigation_bar .Menu li{
+	display: inline;
+	float: left;
+	height: 40px;
+}
+.navigation_bar .Menu a{
+	font-size:13px;
+	font-weight:bold;
+	color:#FFF;
+	padding: 10px 20px;
+	float:left;
+	text-decoration:none;
+	height: 20px;
+	border-left: 1px solid #FFF9F9;
+}
+.navigation_bar .Menu a:hover{
+	color: #005b7f;
+	background: #FDFCFC;
+}
+
+#dangky
+{
+	float:right;
+	height:40px;
+	margin:10px;
+	
+	}
+
+
+
+
+
+#content
+{
+	width:1000px;
+	height:700px;
+	float:left;
+	background:#FFF;
+	
+}
+#content_1
+{
+	background:url(/do_an_1_phuong/home/Homepage/dk.png) no-repeat;
+	height:120px;
+	}
+#chungchi
+{
+	font-size:25px;
+	color:#FFF;
+	padding:50px;
+}
+#content_2
+{
+	
+	padding:30px;
+	
+	background:url(/do_an_1_phuong/home/Homepage/tieni.png) no-repeat;
+	
+}
+#content_2 ul {
+	height:100px;
+	
+	list-style: none;
+	
+}
+#content_2 ul li {
+	width: 90px;
+	
+	margin:13px;
+	float: left;
+}
+#content_2 ul li a {
+	text-decoration: none;
+	color:#000;
+	font-size:13px;
+}
+#content_2 ul li a:hover
+{
+	color:#F00;
+	}
+
+

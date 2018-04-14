@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	width: 1365px;
+	height:auto;
+	margin: auto;
+}
+
+.nav
+{
+	width:1365px;
+	height:60px;
+	background:url(../Homepage/webdev_0004s_0008_Rectangle-3.png) no-repeat;
+	
+}
+.nav ul
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	font-size:20px;
+	
+}
+.nav ul li
+{
+	float:left;
+}
+.nav ul li a
+
+{
+	text-decoration:none;
+	padding:0 15px;
+	line-height:60px;
+	color:#FFF;
+}
+
+.nav ul li  a:hover
+{
+	color:#F00;
+}
+#dangky
+{
+	float:right;
+	height:40px;
+	margin:10px;
+	
+	}
+
+
+
+
+#left{
+	width: 115px;
+	height: 700px;
+	float:left;
+	background:url(../Homepage/webdev_0007s_0005_Rectangle-9.png)  no-repeat;
+	
+	
+	
+}
+#content
+{
+	width:1135px;
+	height:700px;
+	float:left;
+	background:#FFF;
+	
+}
+#content_1
+{
+	background:url(../Homepage/webdev_0005s_0001_Rectangle-5.png) no-repeat;
+	height:120px;
+	}
+#chungchi
+{
+	font-size:36px;
+	color:#FFF;
+	padding:40px;
+}
+#content_2
+{
+	padding:40px;
+	margin: 0;
+	background:url(../Homepage/webdev_0003s_0012_Rounded-Rectangle-2-copy.png) no-repeat;
+	
+}
+#content_2 ul {
+	height:100px;
+	width: 100%;
+	list-style: none;
+	
+}
+#content_2 ul li {
+	width: 130px;
+	height: auto;
+	float: left;
+}
+#content_2 ul li a {
+	text-decoration: none;
+	color:#000;
+	font-size:14px;
+}
+#content_2 ul li a:hover
+{
+	color:#F00;
+	}
+
+#right{
+	width: 115px;
+	height: 700px;
+	background:url(../Homepage/webdev_0007s_0005_Rectangle-9.png);
+	float:left;
+}
+

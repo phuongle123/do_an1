@@ -1,0 +1,114 @@
+/* CSS Document */
+
+#content
+{
+	display: block;
+	float: left;
+	background: #FFF;
+	width: 59.55%;
+	padding-top: 0.1%;
+	margin: 0 0.2% 0 0.2%;
+}
+#content h1
+{
+	color: #F00;
+	font-size: 150%;
+	margin: 1% 1% 0 1%;
+	text-align: center;
+	height: auto;
+}
+#button
+{
+	margin: 0 0 1% 0;
+		
+}
+#button ul li
+{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 0 0 23%;
+	padding: 1% 4% 1% 4%;
+}
+#button ul li a
+{
+	text-decoration: none;
+	color:#FFF;
+}
+#infor
+{
+	margin: 3% 0 0 0;
+	text-align: left;
+}
+#infor ul li
+{
+	display: inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 0 0 0;
+	padding: 0 0 0 3%;
+}
+#infor2
+{
+	margin: 2% 0 0 3%;
+	text-align: left;
+}
+#infor2 ul li
+{
+	display:inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 5% 0 0;
+	padding: 0 5% 0 0;
+}
+#infor2 ul select{
+	margin: 0 3% 0 3.5%;
+}
+#infor3
+{
+	margin: 2% 0 0 3%;
+	text-align:left;
+}
+#infor3 ul li{
+	display:inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 12% 0 0;
+	padding: 0 9.5% 0 0;
+}
+#table {
+	margin: 2% 0 0 3%;
+	
+}
+#table table{
+	text-align:center;
+}
+#button2 {
+	margin: 3% 0 2% 3%;
+	text-align:center;
+}
+#button2 ul li{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 10% 0 0;
+	padding: 1% 1% 1% 1%;
+}
+#button2 ul li a{
+	text-decoration:none;
+	color:#FFF;
+}
+#input{
+	margin: 3% 0 2% 5%;
+	text-align:center;
+}
+#input input{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 10% 0 0;
+	padding: 1% 1% 1% 1%;
+}
